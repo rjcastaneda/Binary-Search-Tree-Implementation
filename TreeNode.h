@@ -1,9 +1,3 @@
-/*
- * Roswell James Castaneda
- * 820249749
- * 11/24/18
- * Assignment#5
- */
 
 #ifndef ASSIGNMENT_5_TREENODE_H
 #define ASSIGNMENT_5_TREENODE_H
